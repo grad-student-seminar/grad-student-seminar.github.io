@@ -1,0 +1,35 @@
+body {
+    color: #006688;
+    font-family: sans-serif;
+}
+
+.talk-div {
+    background: #e8e8e8;
+    margin: 15px;
+    border-width: 2px;
+    border-style: solid;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.big-title{
+    font-size: 50;
+    text-align: center;
+    margin: 50px;
+}
+
+.small-title {
+    font-size: 35;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 35px;
+}
+
+.regular-stuff {
+    margin: 5px;
+}
+
+.special-text {
+    color: #ef0000;
+    font-weight: bold;
+}
